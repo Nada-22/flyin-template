@@ -1,0 +1,78 @@
+body  
+{  
+    margin: 0;  
+    padding: 0;  
+    background-color:rgb(219, 214, 241);  
+    font-family: 'Arial'; 
+   
+} 
+#name , #name2{
+
+width: 150px;
+height: 40px;
+
+}
+
+#d1{  
+    width: 350px;  
+    
+    margin: auto; 
+    margin-top: 80px;
+ 
+    padding-left: 25px;
+    background: linear-gradient(45deg,  rgb(101, 105, 160), rgb(165, 111, 57) 80%);
+    border-radius: 20px ;
+    border: none;
+    font-size: large;   
+     
+
+}
+legend{
+
+    color: rgb(14, 69, 233);
+    font-size: 30px;
+    font-style: italic;
+}
+
+#name , #name2{  
+    width: 150px;  
+    height: 40px;  
+    border: none;  
+    border-radius: 8px;  
+    padding-left: 8px;  
+}   
+
+#email{  
+    width: 300px;  
+    height: 40px;  
+    border: none;  
+    border-radius: 8px;  
+    padding-left: 8px;  
+}  
+#Pass{  
+    width: 300px;  
+    height: 40px;  
+    border: none;  
+    border-radius: 8px;  
+    padding-left: 8px;  
+      
+}  
+
+span{
+
+    font-size: 13px;
+}
+
+#submit1{  
+    width: 300px;  
+    height: 30px;  
+    border: none;  
+    border-radius: 17px;  
+    /* padding-right: 7px;   */
+    color: rgb(7, 3, 240);  
+    font-style:italic;
+    font-size: medium;
+    /* background: linear-gradient(rgb(141, 127, 127) , blue ); */
+  
+  
+} 
